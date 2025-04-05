@@ -2145,5 +2145,26 @@ export const REQUESTS: RawCoinInfo[] = [
   "unique_index": 21027,
   "source": "native",
   "permissioned_listing": true
+},
+{
+  "name": "April",
+  "symbol": "APRIL",
+  "official_symbol": "APRIL",
+  "coingecko_id": "",
+  "decimals": 11,
+  "logo_url": "https://raw.githubusercontent.com/hippospace/aptos-token-list/main/icons/APRIL.png",
+  "project_url": "https://x.com/aptosapril?s=21",
+  "token_type": {
+    "type": "0xe4225e72d04edf51ff916e7343cb173695fc91942439bdaddf947780c76aa8f0::april_coin::AprilCoin",
+    "account_address": "0xe4225e72d04edf51ff916e7343cb173695fc91942439bdaddf947780c76aa8f0",
+    "module_name": "april_coin",
+    "struct_name": "AprilCoin"
+  },
+  "extensions": {
+    "data": []
+  },
+  "unique_index": 9999,
+  "source": "native",
+  "permissioned_listing": false
 }
 ];
